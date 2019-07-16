@@ -1,0 +1,75 @@
+/*large*/
+@media (min-width: 1200px) and (max-width: 1299px) {
+     /*navigation*/
+    .site-nav-wrapper {
+        padding: 0 20px;
+    }
+    
+    
+}
+/*medium*/
+@media (min-width: 992px) and (max-width: 1199px) {
+     /*navigation*/
+    .site-nav-wrapper {
+        padding: 0;
+        
+    }
+    .vertical-heading h2 {
+            font-size: 29px;
+        }
+    
+    
+    
+}
+/*small*/
+@media (min-width: 768px) and (max-width: 991px) {
+    /*navigation*/
+    .site-nav-wrapper {
+        padding: 0;
+        
+    }
+    #home-heading h1 {
+        font-size: 41px;
+    }
+    #home-text p {
+        font-size: 13px;
+    }
+    .btn-general {
+        padding: 8px 35px 8px 35px;
+        font-size: 10px;
+    }
+    .vertical-heading h2 {
+            font-size: 29px;
+        }
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+}
+/*extra small*/
+@media (max-width: 767px) {
+    
+    
+    
+    
+    
+    
+}
+
+
+
+
